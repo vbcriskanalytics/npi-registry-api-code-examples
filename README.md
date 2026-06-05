@@ -7,7 +7,7 @@ search over NPPES data (taxonomy, practice locations, Medicare enrollment, PECOS
 - **Docs / free trial:** https://restapi.npidataservices.com/#docs
 - **Base URL:** `https://restapi.npidataservices.com/api/v1`
 - **Auth:** send your key in an `ApiKey` request header
-- **NPPES API vs. NPI Registry API:** https://restapi.npidataservices.com/nppes-api-vs-npi-registry-api.html
+- **NPPES API vs. NPI Registry API:** https://restapi.npidataservices.com/nppes-api-vs-npi-registry-api
 
 ## Get a key
 Sign up for a free trial at [restapi.npidataservices.com](https://restapi.npidataservices.com/) and
