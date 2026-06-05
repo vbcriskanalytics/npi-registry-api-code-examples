@@ -1,7 +1,7 @@
 # NPI Registry API — code examples
 
 Runnable examples (cURL, Python, JavaScript) for the
-**[NPI Registry API](https://restapi.npidataservices.com/)** — real-time NPI lookup and provider
+**[NPI Registry API](“https://restapi.npidataservices.com/nppes-api-vs-npi-registry-api")** — real-time NPI lookup and provider
 search over NPPES data (taxonomy, practice locations, Medicare enrollment, PECOS & LEIE).
 
 - **Docs / free trial:** https://restapi.npidataservices.com/
